@@ -2,15 +2,19 @@
 
 
 
-str='gk'
+str1='gk'
+print(str1)
 
-str="gk"
+str2="gk"
+print(str2)
 
-srt='''In Python, you can’t delete characters directly from a string because strings are immutable.
+str3='''In Python, you can’t delete characters directly from a string because strings are immutable.
 You can delete the entire string using del, or create a new string using slicing or replace() to remove specific characters.'''
+print(str3)
 
-str="""In Python, you can’t delete characters directly from a string because strings are immutable. You can delete the entire string using del,
+str4="""In Python, you can’t delete characters directly from a string because strings are immutable. You can delete the entire string using del,
 or create a new string using slicing or replace() to remove specific characters."""
+print(str4)
 # print(str[0])
 # print(str[1])
 # print(str[2])
@@ -41,17 +45,17 @@ or create a new string using slicing or replace() to remove specific characters.
 # print(str.lower())   
 
 
-print("print the negative indexing:")
+# print("print the negative indexing:")
 
-nums = [10, 20, 30, 40, 50, 60, 70, 80]
-print(nums[-7:-2])
-print(nums[::])
-print(nums[-1])
-print(nums[-2])
-print(nums[-3])
-print(nums[-4])
-print(nums[-5])
-print(nums[-6])
-print(nums[-7])
-print(nums[-8])
-print(nums[:])
+# nums = [10, 20, 30, 40, 50, 60, 70, 80]
+# print(nums[-7:-2])
+# print(nums[::])
+# print(nums[-1])
+# print(nums[-2])
+# print(nums[-3])
+# print(nums[-4])
+# print(nums[-5])
+# print(nums[-6])
+# print(nums[-7])
+# print(nums[-8])
+# print(nums[:])
