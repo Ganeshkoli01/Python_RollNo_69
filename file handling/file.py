@@ -25,7 +25,8 @@ import os
 os.remove("remove.txt")
 
 f=open("practice.txt","r")
-data=f.read()
+data=f.read()        
+
 newdata=data.replace("dyp","kit")
 print(newdata)
 
