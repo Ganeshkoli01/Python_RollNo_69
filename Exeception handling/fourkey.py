@@ -1,12 +1,3 @@
-# # Exception Handling
-# num = int(input("Enter no: "))
-# result = 10/num
-# print(f"Result is: {result}")
-
-
-# num = int(input("Enter no:"))
-# result = 10/num
-# print(f"Result is:{result}")
 
 # ZeroDivisionError: division by zero
 
